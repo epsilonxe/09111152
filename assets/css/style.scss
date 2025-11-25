@@ -4,16 +4,18 @@
 
 /* --- CUSTOM OVERRIDES --- */
 
-/* 1. Layout Adjustments */
-.wrapper {
-  max-width: 900px; /* Wider content area for math equations */
+/* 1. Global Text (Sarabun) */
+body {
+  font-family: 'Sarabun', sans-serif;
+  font-weight: 400; /* Regular weight for reading */
+  line-height: 1.6; /* Improves readability for lecture notes */
 }
 
-/* 2. Typography (Google Fonts) */
+/* 2. Headers (Prompt) - Keep this as is */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Prompt', serif;
+  font-family: 'Prompt', sans-serif;
   font-weight: 700;
-  color: #2c3e50; /* Dark blue-grey for professional look */
+  color: #2c3e50;
 }
 
 h1 {
