@@ -1,19 +1,8 @@
-# Calculus 2
-Official Repository of RMUTT 0911152: Calculus 2 (แคลคูลัส 2)
-
-
-Lecturer: Ratthaprom PROMKAM, Dr.rer.nat. 
-
-
-![Chaos Theory](/images/strangeattractor-4.gif)
-
-
 ## ตารางเรียน
 
-|Section  |   Date | Lecture  | MS-Teams |
-|---------|--------|---------|----------|
-|SEC 02 | TUE | 09.00 - 12.00  |  `zh4tgnp` |
-
+|Section|Date| Location| Lecture | MS-Teams   |
+|-------|------|-------|---------|------------|
+|SEC 02 | TUE | ST1906 | 13.00 - 16.00 |  `cc934s3` |
 
 
 ## คำอธิบายรายวิชา
@@ -34,6 +23,7 @@ Indeterminate forms, L'Hospital's rules, techniques of integration, improper int
 
 
 ## การวัดผลการเรียน
+
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
 - การสอบกลางภาค %
 - การสอบปลายภาค %
@@ -66,3 +56,14 @@ t-score = 50 + 10*(x - u)/s
 * Frank R. Giordano, William P. Fox, Steven B. Horton. A First Course in Mathematical Modeling. Cengage Learning, 2013.
 * Crista Arangala, Nicolas S. Luke, Karen A. Yokley. Mathematical Modeling: Branching Beyond Calculus. CRC Press, 2018
 * John Berry and Ken Houston. Mathematical Modelling. London : Edward Amold, 1995. 
+
+## ติดต่อผู้สอน
+
+| ชื่อผู้สอน      | E-MAIL     | Location  | Date/Time |
+|-------------|------------|-----------|-----------|
+| ดร.รัฐพรหม พรหมคำ | ratthaprom_p@rmutt.ac.th | ST1302 | THU 9.00-12.00 |
+
+* กรณีที่นักศึกษาต้องการขอคำปรึกษานอกเวลาข้างต้น โปรดนัดล่วงหน้าผ่านช่องทางอีเมลล์อย่างน้อย 2 วัน
+* จำกัดจำนวนนักศึกษาไม่เกิน 3 คนต่อครั้ง เพื่อประสิทธิภาพในการให้คำปรึกษาสูงสุด
+
+***
