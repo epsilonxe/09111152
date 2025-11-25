@@ -56,9 +56,12 @@ t-score = 50 + 10*(x - u)/s
 
 
 ## เอกสารอ้างอิง
-* Frank R. Giordano, William P. Fox, Steven B. Horton. A First Course in Mathematical Modeling. Cengage Learning, 2013.
-* Crista Arangala, Nicolas S. Luke, Karen A. Yokley. Mathematical Modeling: Branching Beyond Calculus. CRC Press, 2018
-* John Berry and Ken Houston. Mathematical Modelling. London : Edward Amold, 1995. 
+
+* Anton, H., Bivens, I. C., & Davis, S. (2020). Calculus: Early transcendentals (12th ed.). Wiley.
+* Larson, R., & Edwards, B. H. (2018). Calculus (11th ed.). Cengage Learning.
+* Stewart, J. (2012). Calculus: Early transcendentals (7th ed.). Brooks Cole.
+* Thomas, G. B., Jr., Weir, M. D., & Hass, J. (2024). Thomas' calculus: Early transcendentals (15th ed.). Pearson.
+* Boelkins, M. (2019). Active Calculus. Grand Valley State University Libraries. [Available for free](https://activecalculus.org)    
 
 ## ติดต่อผู้สอน
 
