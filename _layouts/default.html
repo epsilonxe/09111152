@@ -10,47 +10,44 @@
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+
     <script type="text/javascript" async
       src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
     </script>
-    
-    <style>
-      /* Example: Make the content area wider for long formulas */
-      .wrapper { max-width: 900px; }
-    </style>
   </head>
   <body>
     <div class="wrapper">
       
       <header>
-
         <a href="{{ "/" | relative_url }}">
-          <img src="{{ '/assets/images/banner.jpg' | relative_url }}" alt="Logo" style="width:100%; border-radius: 5px;">
+            <img src="{{ '/assets/images/banner.jpg' | relative_url }}" alt="Logo" class="sidebar-logo">
         </a>
-
-        {% if site.show_downloads %}
-          <ul class="downloads">
-            <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-            <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-          </ul>
-        {% endif %}
-
-      </header>
-
-      <section>
 
         <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.description %}
           <p>{{ site.description }}</p>
         {% endif %}
+        
 
+        {% if site.show_downloads %}
+          <ul class="downloads">
+            <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+            <li><a href="{{ site.github.tar_url }}">Download <strong>Exercises</strong></a></li>
+            <li><a href="{{ site.github.repository_url }}">View On <strong>Solutions</strong></a></li>
+          </ul>
+        {% endif %}
+      </header>
+
+      <section>
         {{ content }}
       </section>
 
       <footer>
-        <p><small>Hosted on GitHub Pages &mdash; © 2025.</p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     
