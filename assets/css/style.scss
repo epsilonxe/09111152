@@ -37,6 +37,21 @@ h1 {
 
 /* Make all tables use the full page width */
 table {
+  display: block; /* Allows the table to have a scrollbar */
   width: 100%;
-  display: table; /* Ensures standard table behavior */
+  overflow-x: auto; /* Adds a horizontal scrollbar only if needed */
+  border-collapse: collapse; /* Removes gaps between cells */
+}
+
+/* Optional: Add borders to match your professional look */
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+/* Header styling using your new font */
+th {
+  background-color: #f2f2f2;
+  font-family: 'Prompt', sans-serif; /* Consistent with your headers */
+  color: #2c3e50;
 }
