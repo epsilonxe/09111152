@@ -15,11 +15,14 @@ Indeterminate forms, L'Hospital's rules, techniques of integration, improper int
 
 |    | หัวข้อ               |      Download          |
 |----|-------------------|------------------------|
-| 01 | บทนำสู่การสร้างแบบจำลองทางคณิตศาสตร์ |  [Lecture](/materials/ch_01.pdf)   |
-| 02 | เริ่มต้นการสร้างแบบจำลอง |  [Lecture](/materials/ch_02.pdf)   |
-| 03 | การตรวจสอบแบบจำลองทางคณิตศาสตร์ |  [Lecture](/materials/ch_03.pdf)    |
-| 04 | แบบจำลองทางคณิตศาสตร์ดีสครีต |  [Lecture](/materials/ch_04.pdf)    |
-| 05 | แบบจำลองทางคณิตศาสตร์ต่อเนื่อง |  [Lecture](/materials/ch_05.pdf)   |
+| 1 | Indeterminate Forms & L'Hospital Rule |  [Lecture](/materials/ch_01.pdf)   |
+| 2.1 | Integration by Parts |  [Lecture](/materials/ch_02_1.pdf)   |
+| 2.2 | Integrals of Power of Trigonometric Functions |  [Lecture](/materials/ch_02_2.pdf)    |
+| 2.3 | Integration using Trigonometric Substitution |  [Lecture](/materials/ch_02_3.pdf)    |
+| 2.4 | Integration using Partial Fractions |  [Lecture](/materials/ch_02_4.pdf)   |
+| 3 | Improper Integrals |  [Lecture](/materials/ch_03.pdf)   |
+| 4.1 | Sequences |  [Lecture](/materials/ch_04_1.pdf)   |
+| 4.2 | Infinite Series |  [Lecture](/materials/ch_04_2.pdf)   |
 
 
 ## การวัดผลการเรียน
