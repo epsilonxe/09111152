@@ -2,4 +2,33 @@
 ---
 @import "{{ site.theme }}";
 
-/* Your custom overrides start here */
+/* --- CUSTOM OVERRIDES --- */
+
+/* 1. Layout Adjustments */
+.wrapper {
+  max-width: 900px; /* Wider content area for math equations */
+}
+
+/* 2. Typography (Google Fonts) */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 700;
+  color: #2c3e50; /* Dark blue-grey for professional look */
+}
+
+h1 {
+  font-size: 2.5em; /* Larger main titles */
+}
+
+/* 3. Image Styling */
+.sidebar-logo {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+/* Optional: Fix MathJax scrolling on mobile if equations get too long */
+.MathJax_Display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
